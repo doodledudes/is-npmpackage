@@ -1,5 +1,5 @@
 {
-  "name": "is-npm-package-rodan",
+  "name": "is-npmpackage",
   "version": "1.0.0",
   "description": "test package for npm versioning",
   "main": "index.js",
