@@ -1,0 +1,23 @@
+{
+  "name": "is-npm-package-rodan",
+  "version": "1.0.0",
+  "description": "test package for npm versioning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doodledudes/npmpackage.git"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "doodledudes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doodledudes/npmpackage/issues"
+  },
+  "homepage": "https://github.com/doodledudes/npmpackage#readme"
+}
